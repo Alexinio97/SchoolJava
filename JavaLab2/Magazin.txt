@@ -1,0 +1,5 @@
+zahar;1.5;30
+miere;2.0;50
+Malai;3.0;80
+sare;1.7;60
+carne;1.2;40

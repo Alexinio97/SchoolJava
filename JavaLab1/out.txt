@@ -1,0 +1,4 @@
+Minimum is:1.0
+The sum is: 30.0
+Media aritmetica: 5.0
+Maximum: 8.0

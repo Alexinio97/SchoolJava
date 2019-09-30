@@ -1,0 +1,2 @@
+Banca Transilvania;Alex Andrei;Cerna;1234;320;Euro;24/09/2016;25/10/2016
+Banca Transilvania;Domnul meu;Dacumnu;345;240;RON;28/01/2014;23/02/2017
